@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="selenium.webdriver.chrome.webdriver.WebDriver.add_exprimantal_option" />
+          <option value="random.random.randint" />
+          <option value="tuple.get" />
+          <option value="list.find_elements" />
+          <option value="selenium.webdriver.remote.switch_to.SwitchTo.aler" />
+          <option value="config.config_driver.driver.get" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
